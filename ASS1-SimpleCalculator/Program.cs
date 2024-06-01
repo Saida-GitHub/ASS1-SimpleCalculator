@@ -37,6 +37,7 @@ if (resultReq != null)
     {
         Console.WriteLine("Please enter valid input");
     }
+    Console.WriteLine("Result::" + final);
 }
 else
 {
